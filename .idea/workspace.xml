@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6be44260-e31b-4242-a51b-8b09c157503a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9kknBMHj070enASs6CENgPfFH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.ordina.workshop.junit5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Oefening4_matchers.lastTest">
+    <configuration name="Oefening1b_ConvertAJunit4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.workshop.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.workshop.junit5" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.workshop.junit5.Oefening1b_ConvertAJunit4Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oefening1b_ConvertAJunit4Test.testAllIsRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.workshop.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.workshop.junit5" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.workshop.junit5.Oefening1b_ConvertAJunit4Test" />
+      <option name="METHOD_NAME" value="testAllIsRight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oefening2_Assertions.allAssertionMustGoOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.workshop.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.workshop.junit5" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.workshop.junit5.Oefening2_Assertions" />
+      <option name="METHOD_NAME" value="allAssertionMustGoOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oefening4_matchers.lastTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.workshop.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.workshop.junit5" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.workshop.junit5.Oefening4_matchers" />
+      <option name="METHOD_NAME" value="lastTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oefening4_matchers.testWithMatcherRegex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Junit5-workshop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.ordina.workshop.junit5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="nl.ordina.workshop.junit5" />
+      <option name="MAIN_CLASS_NAME" value="nl.ordina.workshop.junit5.Oefening4_matchers" />
+      <option name="METHOD_NAME" value="testWithMatcherRegex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Oefening4_matchers.lastTest" />
+        <item itemvalue="JUnit.Oefening4_matchers.testWithMatcherRegex" />
+        <item itemvalue="JUnit.Oefening1b_ConvertAJunit4Test" />
+        <item itemvalue="JUnit.Oefening1b_ConvertAJunit4Test.testAllIsRight" />
+        <item itemvalue="JUnit.Oefening2_Assertions.allAssertionMustGoOf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6be44260-e31b-4242-a51b-8b09c157503a" name="Default Changelist" comment="" />
+      <created>1580465842950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580465842950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#Project_Structure" timestamp="1580472050310">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1580472050310" />
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1581521539798">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1581521539798" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1582742134056">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582742134056" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1582742134055">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582742134055" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1582742134054">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582742134054" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1582742134055">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582742134055" />
+    <state x="378" y="187" key="Maven.ArtifactSearchDialog" timestamp="1580472504135">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="378" y="187" key="Maven.ArtifactSearchDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1580472504135" />
+    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1581259822945">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1581259822945" />
+  </component>
+</project>
