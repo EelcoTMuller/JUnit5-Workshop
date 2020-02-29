@@ -1,4 +1,4 @@
-package nl.ordina.workshp.junit5.uitwerkingen;
+package nl.ordina.workshop.junit5.uitwerkingen;
 
 import nl.ordina.workshop.junit5.PersoonArgumentProvider;
 import nl.ordina.workshop.junit5.model.AgeValidator;
